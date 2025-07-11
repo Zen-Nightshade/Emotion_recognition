@@ -1,1 +1,1 @@
-The initial submission is "audio_processing.ipynb", currently i am working on "emotion-recognition-system.ipynb" (yeah, it;s work in progress)
+The initial version is "audio_processing.ipynb", currently i am working on "emotion-recognition-system.ipynb", where i implemented the using renet blocks and fine tuned a pretrained ResNet-18 model (yeah, it's work in progress)
