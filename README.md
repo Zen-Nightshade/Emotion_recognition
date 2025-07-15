@@ -1,6 +1,6 @@
 # Emotion Recognition from Voice (RAVDESS Dataset)
 
-This project implements a deep learning-based emotion recognition system using audio data from the [RAVDESS dataset](https://zenodo.org/record/1188976). The primary focus is on leveraging audio features—such as spectrograms and MFCCs—for classifying emotions conveyed in speech.
+This project implements a deep learning-based emotion recognition system using audio data from the [RAVDESS dataset](https://zenodo.org/record/1188976). The primary focus is on leveraging audio features, such as spectrograms and MFCCs, for classifying emotions conveyed in speech.
 
 ## Project Highlights
 
